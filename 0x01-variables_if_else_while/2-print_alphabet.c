@@ -2,15 +2,15 @@
 /**
  * main - Entry point
  *
- * Return Always 0 (success)
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
 
 	char c;
 
-	for (c = 'a'; <= 'z'; c++)
-		putchar(C);
+	for (c = 'a'; c <= 'z'; c++)
+		putchar(c);
 		putchar('\n');
 
 	return (0);
