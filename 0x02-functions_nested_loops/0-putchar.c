@@ -9,13 +9,13 @@ int main(void)
 	char task[9] = "_putchar";
 	int i;
 
-	i=0;
-	while (i<8)
+	i = 0;
+	while (i < 8)
 	{
 		_putchar(task[i]);
 		i++;
 	}
 
 	_putchar('\n');
-	return(0);
+	return (0);
 }
