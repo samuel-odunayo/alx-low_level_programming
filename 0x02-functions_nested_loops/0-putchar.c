@@ -4,7 +4,7 @@
  *
  * Return: Always 0.
  */
-int main(viod)
+int main(void)
 {
 	char task[9] = "_putchar";
 	int i;
