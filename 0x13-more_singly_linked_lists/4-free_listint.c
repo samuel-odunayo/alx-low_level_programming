@@ -1,6 +1,6 @@
 #include "lists.h"
 #include <stdlib.h>
-/*
+/**
  * free_listint - define function
  * @head: describe argument
  */
